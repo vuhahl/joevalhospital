@@ -179,7 +179,6 @@ public class GeneralMedicalHist extends javax.swing.JFrame {
         jLabel11.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
         jLabel11.setText("Alcohol Duration:");
 
-        txtMedicalHistID.setText("FamID");
         txtMedicalHistID.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 txtMedicalHistIDActionPerformed(evt);

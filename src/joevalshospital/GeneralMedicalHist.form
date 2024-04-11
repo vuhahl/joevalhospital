@@ -449,9 +449,6 @@
               </Properties>
             </Component>
             <Component class="javax.swing.JTextField" name="txtMedicalHistID">
-              <Properties>
-                <Property name="text" type="java.lang.String" value="FamID"/>
-              </Properties>
               <Events>
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtMedicalHistIDActionPerformed"/>
               </Events>
